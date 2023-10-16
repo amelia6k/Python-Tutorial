@@ -4,3 +4,9 @@ print("Hello World!")
 print("Hello Amelia!") 
 
 #third comment
+
+#collect new user's name
+name = input("Enter your name: ")
+
+#output welcome message
+print("Welcome " + name)
